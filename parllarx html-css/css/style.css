@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(85, 207, 160);
+    font-size: medium;
+    margin: 0%;
+    height: 100%;
+}
+.img{
+    background-image:url(../img/Gujarat-Titans-Wins.jpg);
+    height: 100%;
+}
